@@ -83,7 +83,6 @@ if (!isLoggedIn) {
 
 // Activity 5: Ternary Operator
 // . Task 14: Write a program that uses the ternary operator to check if a number is positive or negative and log the result to the console.
-// Task 14: Checking if a number is positive or negative using the ternary operator
 let result = (num1 >= 0) ? "The number is positive." : "The number is negative.";
 console.log(result);
 
