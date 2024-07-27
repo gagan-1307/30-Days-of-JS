@@ -7,4 +7,5 @@ Day 4: Loops 🎯
 Day 5: Functions 🎯   
 Day 6: Array Creation and Access 🎯    
 Day 7: Objects 🎯   
-Day 8: Template Literals 🎯       
+Day 8: Template Literals 🎯     
+Day 9: Dom Manipulation 🎯       
