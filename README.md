@@ -10,4 +10,5 @@ Day 7: Objects 🎯
 Day 8: Template Literals 🎯     
 Day 9: Dom Manipulation 🎯       
 Day 10: Event Handling 🎯     
-Day 11: Promises and Async/Await 🎯    
+Day 11: Promises and Async/Await 🎯  
+Day 12: Error Handling 🎯  
